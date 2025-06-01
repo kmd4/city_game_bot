@@ -1,4 +1,4 @@
-TOKEN = "6529507242:AAGNUPInrlzd6-Nhu6Y139sfDrZ2Ofh1EEs"
+TOKEN = None
 
 URL = "https://geo.koltyrin.ru/"
 
